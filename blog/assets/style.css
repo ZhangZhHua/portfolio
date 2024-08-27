@@ -184,10 +184,10 @@ body, html {
     justify-content: flex-start; /* 水平对齐到左侧 */
     align-items: flex-start; /* 垂直对齐到顶部 */
     gap: 0 ;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-top: 2%; /* 使用百分比替代像素 */
+    margin-bottom: 2%; /* 使用百分比替代像素 */
+    margin-left: 10%; /* 使用百分比替代像素 */
+    margin-right: 10%; /* 使用百分比替代像素 */
 }
 
 
